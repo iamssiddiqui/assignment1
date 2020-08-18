@@ -1,0 +1,132 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 65px;
+    background-color: #BABEC1;
+    border-radius: 90px;
+    font-family: 'Poppins', sans-serif;
+    }
+
+#top-bar {
+    background-color: white;
+    width: 100%;
+    height: 77px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 28px;
+    box-sizing: border-box;
+    }
+    #menu-items {
+        font-weight: 600;
+    }
+
+
+#logo img {
+    width: 200px;
+    height: auto;
+    margin: none;
+    }
+
+a {
+text-decoration:none; 
+}
+
+.menu-item {
+color: #9B9B9B;
+    font-weight: 400;
+    font-size: 14px;
+    margin-right: 24px;
+    cursor: pointer;
+    }
+    #menu-items {
+        font-weight: 700;
+    }
+#sign-in {
+    font-size: 14px;
+    font-weight:600px;
+    color: white;
+    background-color:black;
+    padding: 9px 50px;
+    border: 0;
+    border-radius: 16px;
+    margin-right: 16px;
+    cursor: pointer;
+    }
+
+#button {
+    font-size: 12px;
+    font-weight: 600;
+    color: #536BFF;
+    background-color: #FFD9FF;
+    padding: 12px 32px;
+    border-radius: 20px;
+    margin-right: 16px;
+    cursor: pointer; 
+    }
+
+#new-button {
+    font-size: 18px;
+    font-weight:700;
+    color: white;
+    background-color: #6A7BFF;
+    padding: 25px 60px;
+    border: 0;
+    border-radius: 30px;
+    margin-right: 16px;
+    cursor: pointer; 
+    }
+
+#right-image {
+    background-color: white;
+    width: 700px;
+    height: 80vh;
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    padding: 0 28px;
+    box-sizing: border-box;
+    }
+
+#h1 {
+    font-size: 50px;
+    max-width: 75%;
+    display: flex;
+    }
+    #landing-section {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 50px;
+    line-height: 1.2;
+    letter-spacing: 1.8;
+}
+
+.para {
+    color: black;
+    font-size: 14px;
+}
+#back {
+    padding: 25px;
+    background-color: white;
+    border-radius: 25px;
+}
+.dir {
+font-size: 25px;
+color: black;
+margin-top: 100px;
+margin-left: 15px;
+display: inline-block; 
+margin-right: 30px;
+}
+#paragraph {
+    font-size: 10px;
+    color: black;
+    font-weight: 800;
+    display: flex;
+}
+.icon-wrapper {
+    padding: 15px;
+    background-color: #6A7BFF;
+    display: inline-block;
+    border-radius: 50%
+}
